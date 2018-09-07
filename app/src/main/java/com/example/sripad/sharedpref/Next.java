@@ -13,6 +13,19 @@ public class Next extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_next);
 
+/*
+        @Override
+        protected void onCreate(Bundle savedInstanceState) {
+            super.onCreate(savedInstanceState);
+            setContentView(R.layout.activity_next);
+*/
+
+
+/*
+
+        Button bt=findViewById(R.id.bt2);
+
+*/
             Button bt=findViewById(R.id.bt2);
 
         bt.setOnClickListener(new View.OnClickListener() {

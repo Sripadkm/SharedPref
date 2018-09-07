@@ -13,12 +13,6 @@ public class Third extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_third);
 
-/*
-        SharedPreferences preferences=
-                getSharedPreferences
-                        ("Basic",MODE_PRIVATE);
-        SharedPreferences.Editor editor=preferences.edit();*/
-
         SharedPreferences preferences=
                 getSharedPreferences
                         ("Basic",MODE_PRIVATE);

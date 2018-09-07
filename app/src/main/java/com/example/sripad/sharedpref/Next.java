@@ -21,6 +21,11 @@ public class Next extends AppCompatActivity {
 */
 
 
+/*
+
+        Button bt=findViewById(R.id.bt2);
+
+*/
             Button bt=findViewById(R.id.bt2);
 
         bt.setOnClickListener(new View.OnClickListener() {

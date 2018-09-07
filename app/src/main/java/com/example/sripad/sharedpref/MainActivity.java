@@ -19,6 +19,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+/*
+        Name=findViewById(R.id.name);
+        Mobile=findViewById(R.id.mobile);
+        pass=findViewById(R.id.pass);
+        email=findViewById(R.id.email);
+        */
+
         Name=findViewById(R.id.name);
         Mobile=findViewById(R.id.mobile);
         pass=findViewById(R.id.pass);
